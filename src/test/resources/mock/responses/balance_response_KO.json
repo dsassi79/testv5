@@ -1,0 +1,11 @@
+{
+  "status": "KO",
+  "errors": [
+    {
+      "code": "REQ004",
+      "description": "Invalid account identifier",
+      "params": ""
+    }
+  ],
+  "payload": {}
+}

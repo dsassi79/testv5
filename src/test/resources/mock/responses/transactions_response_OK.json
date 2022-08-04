@@ -1,0 +1,736 @@
+{
+  "status": "OK",
+  "error": [],
+  "payload": {
+    "list": [
+      {
+        "transactionId": "1713950959002",
+        "operationId": "21000051500067",
+        "accountingDate": "2021-03-31",
+        "valueDate": "2021-03-31",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         DATA ORDINE 31032021 ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
+      },
+      {
+        "transactionId": "1712430473002",
+        "operationId": "21000050006005",
+        "accountingDate": "2021-03-29",
+        "valueDate": "2021-03-29",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         DATA ORDINE 29032021 SING CE5ABBB15E4044A78E3F7906D6045DAE TEST CUTOFF"
+      },
+      {
+        "transactionId": "1711532914002",
+        "operationId": "21000049264821",
+        "accountingDate": "2021-03-26",
+        "valueDate": "2021-03-26",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         DATA ORDINE 26032021 42C8CEEBA56C4A30A42DDB94F53E234C DA IT40L032682231105292"
+      },
+      {
+        "transactionId": "1711541045002",
+        "operationId": "21000049272501",
+        "accountingDate": "2021-03-26",
+        "valueDate": "2021-03-26",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -3.10,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         DATA ORDINE 26032021 92869FAE30024FB3B3E18A03DD17766C DA IT40L032682231105292"
+      },
+      {
+        "transactionId": "1711076188002",
+        "operationId": "21000048808547",
+        "accountingDate": "2021-03-25",
+        "valueDate": "2021-03-25",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -1.00,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         DATA ORDINE 25032021 TEST"
+      },
+      {
+        "transactionId": "1710040101002",
+        "operationId": "21000047821570",
+        "accountingDate": "2021-03-24",
+        "valueDate": "2021-03-24",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         DATA ORDINE 24032021 DF 1BD35AF96259429B84DD1C5CF943782B TEST CUTOFF"
+      },
+      {
+        "transactionId": "1709922354002",
+        "operationId": "21000047723814",
+        "accountingDate": "2021-03-23",
+        "valueDate": "2021-03-23",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA TERRIBILE         DATA ORDINE 23032021 TEST A LUCA TERRIBILE REF H952D23M3 TEST PER CONTARE SES"
+      },
+      {
+        "transactionId": "1709057926002",
+        "operationId": "21000046815193",
+        "accountingDate": "2021-03-22",
+        "valueDate": "2021-03-22",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         DATA ORDINE 22032021 SING D421708F53CF42569E94EE6E823D436F TEST CUTOFF"
+      },
+      {
+        "transactionId": "1703055169002",
+        "operationId": "21000041178760",
+        "accountingDate": "2021-03-10",
+        "valueDate": "2021-03-10",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 500.00,
+        "currency": "EUR",
+        "description": "BD BANCA REALE S.P.A.    DA BRTOITTT              URI 03260597600       STRESS TEST PAYMENT HUB"
+      },
+      {
+        "transactionId": "1698843597002",
+        "operationId": "21000037081193",
+        "accountingDate": "2021-03-03",
+        "valueDate": "2021-03-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0039"
+        },
+        "amount": -6.01,
+        "currency": "EUR",
+        "description": "ID INT. LIQUIDAZIONI PREC"
+      },
+      {
+        "transactionId": "1698059256002",
+        "operationId": "21000035260905",
+        "accountingDate": "2021-03-02",
+        "valueDate": "2021-03-02",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 0.12,
+        "currency": "EUR",
+        "description": "BD TERRIBILE LUCA        DA BCITITMMXXX           URI NOTPROVIDED       REST SEPA A IT50K03069223001000"
+      },
+      {
+        "transactionId": "1698060277002",
+        "operationId": "21000035261876",
+        "accountingDate": "2021-03-02",
+        "valueDate": "2021-03-02",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 0.10,
+        "currency": "EUR",
+        "description": "BD TERRIBILE LUCA        DA BCITITMMXXX           URI NOTPROVIDED       REST CHECK FORBIDDEN CHARS /-:,"
+      },
+      {
+        "transactionId": "1698060585002",
+        "operationId": "21000035262169",
+        "accountingDate": "2021-03-02",
+        "valueDate": "2021-03-02",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 1.00,
+        "currency": "EUR",
+        "description": "BD TERRIBILE LUCA        DA BCITITMMXXX           URI NOTPROVIDED       REST FUTURE A TERRIBILE LUCA RE"
+      },
+      {
+        "transactionId": "1698061317002",
+        "operationId": "21000035262871",
+        "accountingDate": "2021-03-02",
+        "valueDate": "2021-03-02",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 1.00,
+        "currency": "EUR",
+        "description": "BD TERRIBILE LUCA        DA BCITITMMXXX           URI NOTPROVIDED       REST 988F09F43918441B969DC4230C"
+      },
+      {
+        "transactionId": "1697450426001",
+        "operationId": "21000033935716",
+        "accountingDate": "2021-03-01",
+        "valueDate": "2021-03-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0034"
+        },
+        "amount": 10.00,
+        "currency": "EUR",
+        "description": "GC LUCA TERRIBILE        DA 03268.44430         DATA ORDINE 01032021 TEST ACCOUNT FABRICK"
+      },
+      {
+        "transactionId": "1697488566002",
+        "operationId": "21000033973456",
+        "accountingDate": "2021-03-01",
+        "valueDate": "2021-03-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -10.00,
+        "currency": "EUR",
+        "description": "BA BARBARA LORENZINI      REST RABBOCCO SU SELLA DEL 13-10-2020"
+      },
+      {
+        "transactionId": "1694205447002",
+        "operationId": "21000030938301",
+        "accountingDate": "2021-02-24",
+        "valueDate": "2021-02-24",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -1.00,
+        "currency": "EUR",
+        "description": "BA PAOLO CEPPI            DATA ORDINE 24022021 CHECK API DISPO"
+      },
+      {
+        "transactionId": "1693815817002",
+        "operationId": "21000030620397",
+        "accountingDate": "2021-02-23",
+        "valueDate": "2021-02-23",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 1.00,
+        "currency": "EUR",
+        "description": "BD PAOLO CEPPI           DA HYEEIT22              URI NOTPROVIDED       TEST CHECK DISPO IB"
+      },
+      {
+        "transactionId": "1653406771002",
+        "operationId": "20000206200050",
+        "accountingDate": "2020-12-14",
+        "valueDate": "2020-12-14",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.12,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         SEPA A IT50K0306922300100000004303 REF H1017D14M12"
+      },
+      {
+        "transactionId": "1627525111001",
+        "operationId": "20000178206975",
+        "accountingDate": "2020-10-27",
+        "valueDate": "2020-10-27",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA T.               TEST PAGAMENTO RICORRENTE PRO PSD2"
+      },
+      {
+        "transactionId": "1620591900002",
+        "operationId": "20000171930916",
+        "accountingDate": "2020-10-13",
+        "valueDate": "2020-10-13",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 10.00,
+        "currency": "EUR",
+        "description": "BD LORENZINI BARBARA     DA FEBIITM1XXX           URI NOT PROVIDED      RABBOCCO SU SELLA"
+      },
+      {
+        "transactionId": "1619715818002",
+        "operationId": "20000170998433",
+        "accountingDate": "2020-10-12",
+        "valueDate": "2020-10-12",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         CHECK FORBIDDEN CHARS /-:,"
+      },
+      {
+        "transactionId": "1611928171002",
+        "operationId": "20000163578106",
+        "accountingDate": "2020-09-30",
+        "valueDate": "2020-09-30",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.01,
+        "currency": "EUR",
+        "description": "BA TEST PRO               DATA ORDINE 30092020 API GATEWAY TEST"
+      },
+      {
+        "transactionId": "1611943087002",
+        "operationId": "20000163587418",
+        "accountingDate": "2020-09-30",
+        "valueDate": "2020-09-30",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.01,
+        "currency": "EUR",
+        "description": "BA TEST PRO               DATA ORDINE 30092020 API GATEWAY TEST FABRICK SG GBS PRO"
+      },
+      {
+        "transactionId": "1611950068002",
+        "operationId": "20000163591760",
+        "accountingDate": "2020-09-30",
+        "valueDate": "2020-09-30",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 0.02,
+        "currency": "EUR",
+        "description": "BD PAOLO CEPPI           DA HYEEIT22              URI NOTPROVIDED       RIMBORSO TEST API"
+      },
+      {
+        "transactionId": "1609592882001",
+        "operationId": "20000161411265",
+        "accountingDate": "2020-09-25",
+        "valueDate": "2020-09-25",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA T.               TEST PAGAMENTO RICORRENTE PRO PSD2"
+      },
+      {
+        "transactionId": "1608177757002",
+        "operationId": "20000160184793",
+        "accountingDate": "2020-09-22",
+        "valueDate": "2020-09-22",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -1.00,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         988F09F43918441B969DC4230C054CB6 PROVA PER VEDERE QUANTI CARATTERI PASSANO NE"
+      },
+      {
+        "transactionId": "1597305815002",
+        "operationId": "20000148518656",
+        "accountingDate": "2020-09-01",
+        "valueDate": "2020-09-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -1.00,
+        "currency": "EUR",
+        "description": "BA TERRIBILE LUCA         FUTURE A TERRIBILE LUCA REF H0937D27M8F01"
+      },
+      {
+        "transactionId": "1595033161001",
+        "operationId": "20000146522591",
+        "accountingDate": "2020-08-27",
+        "valueDate": "2020-08-27",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA T.               TEST PAGAMENTO RICORRENTE PRO PSD2"
+      },
+      {
+        "transactionId": "1591436498002",
+        "operationId": "20000143388131",
+        "accountingDate": "2020-08-18",
+        "valueDate": "2020-08-18",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA PAOLO CEPPI            DATA ORDINE 18082020 PROVA CONDIZIONI CONTO"
+      },
+      {
+        "transactionId": "1591436778002",
+        "operationId": "20000143388316",
+        "accountingDate": "2020-08-18",
+        "valueDate": "2020-08-18",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 0.10,
+        "currency": "EUR",
+        "description": "BD PAOLO CEPPI           DA HYEEIT22              URI NOTPROVIDED       RESTITUZIONE PROVA CONDIZIONI C"
+      },
+      {
+        "transactionId": "1579673114001",
+        "operationId": "20000131107951",
+        "accountingDate": "2020-07-27",
+        "valueDate": "2020-07-27",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA T.               TEST PAGAMENTO RICORRENTE PRO PSD2"
+      },
+      {
+        "transactionId": "1562552181001",
+        "operationId": "20000115632325",
+        "accountingDate": "2020-06-26",
+        "valueDate": "2020-06-26",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA T.               TEST PAGAMENTO RICORRENTE PRO PSD2"
+      },
+      {
+        "transactionId": "1547615651001",
+        "operationId": "20000090272205",
+        "accountingDate": "2020-05-27",
+        "valueDate": "2020-05-27",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA T.               TEST PAGAMENTO RICORRENTE PRO PSD2"
+      },
+      {
+        "transactionId": "1536314232001",
+        "operationId": "20000071993538",
+        "accountingDate": "2020-04-27",
+        "valueDate": "2020-04-27",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0009"
+        },
+        "amount": -0.10,
+        "currency": "EUR",
+        "description": "BA LUCA T.               TEST PAGAMENTO RICORRENTE PRO PSD2"
+      },
+      {
+        "transactionId": "1529820982001",
+        "operationId": "20000062092863",
+        "accountingDate": "2020-04-06",
+        "valueDate": "2020-04-04",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 350.00,
+        "currency": "EUR",
+        "description": "BD LUCA TERRIBILE        DA ITTPIT2M              URI NOTPROVIDED       COPERTURA SPESE"
+      },
+      {
+        "transactionId": "784942",
+        "operationId": "00000000784942",
+        "accountingDate": "2020-03-31",
+        "valueDate": "2020-04-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -333.78,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 02"
+      },
+      {
+        "transactionId": "1525686714002",
+        "operationId": "20000056301225",
+        "accountingDate": "2020-03-25",
+        "valueDate": "2020-03-23",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0039"
+        },
+        "amount": -13.09,
+        "currency": "EUR",
+        "description": "ID INT. LIQUIDAZIONI PREC"
+      },
+      {
+        "transactionId": "1525261938002",
+        "operationId": "20000055640301",
+        "accountingDate": "2020-03-23",
+        "valueDate": "2020-03-23",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 257.00,
+        "currency": "EUR",
+        "description": "BD LUCA TERRIBILE        DA ITTPIT2M              URI NOTPROVIDED       COPERTURA SPESE CARTA AZIENDALE"
+      },
+      {
+        "transactionId": "560235",
+        "operationId": "00000000560235",
+        "accountingDate": "2020-02-28",
+        "valueDate": "2020-03-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -259.10,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 01"
+      },
+      {
+        "transactionId": "1505868734001",
+        "operationId": "20000028020993",
+        "accountingDate": "2020-02-10",
+        "valueDate": "2020-02-09",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 360.00,
+        "currency": "EUR",
+        "description": "BD LUCA TERRIBILE        DA 03268.44430         DATA ORDINE 09022020 COPERTURA CARTA CREDITO"
+      },
+      {
+        "transactionId": "023551",
+        "operationId": "00000000023551",
+        "accountingDate": "2020-01-31",
+        "valueDate": "2020-02-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -358.18,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 12"
+      },
+      {
+        "transactionId": "1497084676002",
+        "operationId": "20000014772122",
+        "accountingDate": "2020-01-23",
+        "valueDate": "2020-01-23",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0034"
+        },
+        "amount": -0.01,
+        "currency": "EUR",
+        "description": "GC LUCA TERRIBILE         DATA ORDINE 23012020 TEST 1"
+      },
+      {
+        "transactionId": "1490501374001",
+        "operationId": "20000006023654",
+        "accountingDate": "2020-01-09",
+        "valueDate": "2020-01-09",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 570.00,
+        "currency": "EUR",
+        "description": "BD LUCA TERRIBILE        DA 03268.49130         DATA ORDINE 09012020 COPERTURA SPESE"
+      },
+      {
+        "transactionId": "519157",
+        "operationId": "00000000519157",
+        "accountingDate": "2019-12-31",
+        "valueDate": "2020-01-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -586.39,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 11"
+      },
+      {
+        "transactionId": "1476867193001",
+        "operationId": "19000214902246",
+        "accountingDate": "2019-12-13",
+        "valueDate": "2019-12-13",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0034"
+        },
+        "amount": 330.00,
+        "currency": "EUR",
+        "description": "GC LUCA TERRIBILE        DA 03268.22300         DATA ORDINE 13122019 COPERTURA SPESE"
+      },
+      {
+        "transactionId": "1476867199001",
+        "operationId": "19000214902305",
+        "accountingDate": "2019-12-13",
+        "valueDate": "2019-12-13",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0034"
+        },
+        "amount": 31.00,
+        "currency": "EUR",
+        "description": "GC LUCA TERRIBILE        DA 03268.22300         DATA ORDINE 13122019 VACANZA GENNAIO"
+      },
+      {
+        "transactionId": "282831",
+        "operationId": "00000000282831",
+        "accountingDate": "2019-11-29",
+        "valueDate": "2019-12-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -343.77,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 10"
+      },
+      {
+        "transactionId": "1460159524001",
+        "operationId": "19000191134336",
+        "accountingDate": "2019-11-11",
+        "valueDate": "2019-11-09",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 854.00,
+        "currency": "EUR",
+        "description": "BD LUCA TERRIBILE        DA 03268.49130         DATA ORDINE 09112019 COPERTURA VISA"
+      },
+      {
+        "transactionId": "032067",
+        "operationId": "00000000032067",
+        "accountingDate": "2019-10-31",
+        "valueDate": "2019-11-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -407.75,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 09"
+      },
+      {
+        "transactionId": "224892",
+        "operationId": "00000000224892",
+        "accountingDate": "2019-09-30",
+        "valueDate": "2019-10-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -507.88,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 08"
+      },
+      {
+        "transactionId": "1433790655001",
+        "operationId": "19000155036506",
+        "accountingDate": "2019-09-16",
+        "valueDate": "2019-09-16",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0034"
+        },
+        "amount": 100.00,
+        "currency": "EUR",
+        "description": "GC LUCA TERRIBILE        DA 03268.22300         DATA ORDINE 16092019 TEST"
+      },
+      {
+        "transactionId": "428524",
+        "operationId": "00000000428524",
+        "accountingDate": "2019-06-28",
+        "valueDate": "2019-07-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -38.90,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 05"
+      },
+      {
+        "transactionId": "1390057989001",
+        "operationId": "19000095363538",
+        "accountingDate": "2019-06-14",
+        "valueDate": "2019-06-14",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0010"
+        },
+        "amount": 90.00,
+        "currency": "EUR",
+        "description": "BD LUCA TERRIBILE        DA 03268.44430         DATA ORDINE 14062019 RIMBORSO VISA"
+      },
+      {
+        "transactionId": "314569",
+        "operationId": "00000000314569",
+        "accountingDate": "2019-05-31",
+        "valueDate": "2019-06-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -28.40,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 04"
+      },
+      {
+        "transactionId": "038917",
+        "operationId": "00000000038917",
+        "accountingDate": "2019-04-30",
+        "valueDate": "2019-05-01",
+        "type": {
+          "enumeration": "GBS_TRANSACTION_TYPE",
+          "value": "GBS_ACCOUNT_TRANSACTION_TYPE_0050"
+        },
+        "amount": -62.40,
+        "currency": "EUR",
+        "description": "PD VISA CORPORATE 03"
+      }
+    ]
+  }
+}

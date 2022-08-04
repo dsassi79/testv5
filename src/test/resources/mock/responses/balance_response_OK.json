@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "error": [],
+  "payload": {
+    "date": "2022-07-28",
+    "balance": 223.48,
+    "availableBalance": 223.48,
+    "currency": "EUR"
+  }
+}
